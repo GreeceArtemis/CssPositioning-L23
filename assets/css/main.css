@@ -11,6 +11,8 @@ body, .contenedor{
 }
 #azul{
   background-color: #2B7DB9;
+  position: relative;
+  left:200px;
 }
 #verde{
   background-color: #B7D84B;
